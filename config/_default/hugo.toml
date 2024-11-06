@@ -1,0 +1,4 @@
+baseURL = 'https://glddevcomms.org/'
+languageCode = 'en-us'
+title = 'GDL DevComms'
+theme = 'blowfish'
