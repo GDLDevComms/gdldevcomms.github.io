@@ -1,0 +1,34 @@
+[[main]]
+name = "About"
+pageRef = "about"
+weight = 10
+
+[[main]]
+name = "Socials"
+weight = 20
+
+[[main]]
+name = "Facebook"
+pre = "facebook"
+parent = "Socials"
+weight = 20
+url = "https://facebook.com/gdldevcomms"
+
+[[main]]
+name = "Twitter"
+parent = "Socials"
+pre = "twitter"
+url = "https://twitter.com/gdldevcomms"
+weight = 20
+
+[[footer]]
+name = "Twitter"
+pre = "twitter"
+url = "https://twitter.com/gdldevcomms"
+weight = 40
+
+[[footer]]
+name = "Facebook"
+pre = "facebook"
+url = "https://facebook.com/gdldevcomms"
+weight = 50

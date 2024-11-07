@@ -1,0 +1,14 @@
+colorScheme = "fire"
+
+[homepage]
+layout = 'hero'
+
+[header]
+layout = 'fixed-fill-blur'
+
+[footer]
+showMenu = true
+showCopyright = true
+showThemeAttribution = false
+showAppearanceSwitcher = true
+showScrollToTop = true

@@ -1,0 +1,28 @@
+[[main]]
+name = "About"
+pageRef = "about"
+weight = 10
+
+[[main]]
+name = "Twitter"
+pre = "twitter"
+url = "https://twitter.com/gdldevcomms"
+weight = 20
+
+[[main]]
+name = "Facebook"
+pre = "facebook"
+url = "https://facebook.com/gdldevcomms"
+weight = 30
+
+[[footer]]
+name = "Twitter"
+pre = "twitter"
+url = "https://twitter.com/gdldevcomms"
+weight = 40
+
+[[footer]]
+name = "Facebook"
+pre = "facebook"
+url = "https://facebook.com/gdldevcomms"
+weight = 50

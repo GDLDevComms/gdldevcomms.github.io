@@ -1,0 +1,7 @@
+title = "GDLDevComms"
+
+[author]
+name = "GDLDevComms"
+headline = "Tech Communities, together"
+bio = "Guadalajara Tech Communities"
+links = { twitter = "https://twitter.com/gdldevcomms", facebook = "https://facebook.com/GDLDevComms" }

@@ -1,4 +1,5 @@
 baseURL = 'https://glddevcomms.org/'
 languageCode = 'en-us'
-title = 'GDL DevComms'
+defaultContentLanguage = 'en'
+title = 'GDLDevComms'
 theme = 'blowfish'
